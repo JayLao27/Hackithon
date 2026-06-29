@@ -5,7 +5,7 @@ category: Insight Generation
 created: 2026-06-29
 ---
 
-# 🧩 Finverse Category: Insight Generation & Action
+# Finverse Category: Insight Generation & Action
 
 Back to MOC: [[Hackathon MOC]]
 
@@ -13,7 +13,7 @@ This category covers the final mile of data value: extracting insights from raw 
 
 ---
 
-## 🛑 Specific Challenges & Mappings
+## Specific Challenges & Mappings
 
 ### 1. Difficulty Identifying Meaningful Patterns
 - **Description**: Sifting through thousands of micro-transactions to find underlying trends of vulnerability or business growth is difficult without advanced analytical tooling.

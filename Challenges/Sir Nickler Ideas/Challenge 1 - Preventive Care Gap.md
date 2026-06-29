@@ -6,7 +6,7 @@ direction: Direction 1 — Preventive Care Model
 created: 2026-06-29
 ---
 
-# 🏥 Challenge 1: The "Preventive Care" Financial Health Gap
+# Challenge 1: The "Preventive Care" Financial Health Gap
 
 Back to Sir Nickler Ideas: [[Sir Nickler Ideas Index|Sir Nickler Ideas Index]] | Back to MOC: [[Hackathon MOC]]
 
@@ -14,7 +14,7 @@ This challenge was surfaced from **Direction 1** in [[Sir Nickler Ideas|Sir Nick
 
 ---
 
-## 🔍 The Core Problem (In Plain English)
+## The Core Problem (In Plain English)
 
 Most MFIs and cooperatives only interact with members when something goes wrong — a missed payment, a loan renewal request, or a default flag. The relationship is purely **reactive and transactional**.
 
@@ -24,7 +24,7 @@ The challenge is: **FSPs have no systematic mechanism to proactively measure and
 
 ---
 
-## 📌 Why This Is Hard
+## Why This Is Hard
 
 | Obstacle | Explanation |
 | :--- | :--- |
@@ -35,7 +35,7 @@ The challenge is: **FSPs have no systematic mechanism to proactively measure and
 
 ---
 
-## 🧩 Finverse Categories This Challenge Maps To
+## Finverse Categories This Challenge Maps To
 
 1. **[[Finverse Data Quality#Missing-Contextual-and-Subjective-Data|Missing Contextual and Subjective Data]]**: A true financial health check requires emotional security scores, future-planning behaviors, and shock-resilience indicators — none of which are in standard databases.
 2. **[[Finverse Insight Generation#Complexity-in-Measuring-Financial-Health|Complexity in Measuring Financial Health]]**: Financial health is inherently multi-dimensional. Reducing it to one number (credit score) fails the whole picture.
@@ -43,7 +43,7 @@ The challenge is: **FSPs have no systematic mechanism to proactively measure and
 
 ---
 
-## 💡 How Our Ideas Address This Challenge
+## How Our Ideas Address This Challenge
 
 | Our Idea | How It Helps |
 | :--- | :--- |
@@ -53,7 +53,7 @@ The challenge is: **FSPs have no systematic mechanism to proactively measure and
 
 ---
 
-## ❓ Open Questions
+## Open Questions
 - What does a financially healthy member actually look like, in measurable terms, for a Philippine rural cooperative?
 - How do we design a "financial health check-up" that a loan officer can run in under 10 minutes during a center meeting?
 - What triggers a "wellness plan" recommendation vs. a standard loan product pitch?

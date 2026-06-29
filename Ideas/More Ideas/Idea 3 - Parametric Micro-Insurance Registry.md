@@ -11,16 +11,16 @@ tags:
 created: 2026-06-29
 ---
 
-# 🌦️ Idea 3: Parametric Micro-Insurance Registry & Alert System
+# Idea 3: Parametric Micro-Insurance Registry & Alert System
 
 Back to MOC: [[Hackathon MOC]]
 
-## 📌 Quick Summary
+## Quick Summary
 A data-sharing registry that connects environmental sensors and satellite data to micro-insurance providers, enabling automatic, instant parametric payouts to vulnerable coastal and agricultural communities immediately after climate shocks, without requiring physical damage assessment.
 
 ---
 
-## 🧩 Finverse Challenges Mapped
+## Finverse Challenges Mapped
 This idea targets data barriers that prevent fast, regional safety nets:
 1. **[[Finverse Data Access#Trust-Deficit-&-Low-Incentives-for-Data-Sharing|Trust Deficit & Low Incentives for Data Sharing]]**: Insurance companies, agricultural agencies, and NGOs rarely share data due to proprietary and privacy fears.
 2. **[[Finverse Data Access#Limited-Data-Availability-&-Accessibility|Limited Data Availability & Accessibility]]**: High-resolution weather history and geographic hazard mapping are locked in government agencies or scientific databases.
@@ -28,13 +28,13 @@ This idea targets data barriers that prevent fast, regional safety nets:
 
 ---
 
-## 🤝 Target Partner & User
+## Target Partner & User
 - **Target Partner**: NGO coalitions, regional microinsurance providers (e.g., CARD Pioneer Microinsurance), or public-sector disaster management bodies.
 - **Target User**: Coastal fisherfolk, low-income farmers, and rural community cooperatives in high-risk climate zones (e.g., Vietnam's Mekong Delta, coastal Philippines, or Bangladesh).
 
 ---
 
-## 💡 Tech & Data Architecture
+## Tech & Data Architecture
 
 ```mermaid
 graph TD
@@ -61,13 +61,13 @@ graph TD
 
 ---
 
-## ❤️ Financial Health Impact
+## Financial Health Impact
 - **Absorb Shocks (Resilience)**: Payouts arrive in hours, not months. Families can purchase emergency supplies, food, and seeds to restart immediately, preventing them from selling vital assets (like farm animals or tools) to survive.
 - **Financial Security**: Restores faith in the financial safety net. Payouts are transparent and binary (based on physical data rules), eliminating claim rejection disputes.
 
 ---
 
-## 🗺️ Connection & Open Questions
+## Connection & Open Questions
 - **Synergies**: Can agricultural alternative data collected in [[Idea 1 - Alt-Data Credit Scoring for Farmers|Idea 1]] be used to customize the parametric thresholds for individual farms?
 - **Next Steps**: Locate public satellite databases for APAC. How granular can we get with free satellite data (e.g., Sentinel-2)?
 - **Partner Fit**: **[[Partners/PRADAN (India)|PRADAN]]** works with self-help groups in high-risk climatic areas in India, making them a strong partner candidate.

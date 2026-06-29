@@ -9,7 +9,7 @@ tags:
 created: 2026-06-29
 ---
 **
-# 🚀 Hackathon 2026: Financial Health in APAC
+# Hackathon 2026: Financial Health in APAC
 
 Welcome to the central workspace for the **Financial Health Hackathon (Asia-Pacific)**. This dashboard serves as a **Map of Content (MOC)** to connect our brainstorming, partner options, and Finverse data challenges.
 
@@ -20,7 +20,7 @@ Welcome to the central workspace for the **Financial Health Hackathon (Asia-Paci
 
 ---
 
-## 📅 Roadmap & Milestones
+## Roadmap & Milestones
 - [ ] **Phase 1: Registration & Concept Submission** (Deadline: **July 12, 2026**)
   - Develop core ideas and select the top 1-2 directions.
 - [ ] **Phase 2: Partner Selection & Solution Plan** (Deadline: **August 28, 2026**)
@@ -34,7 +34,7 @@ Welcome to the central workspace for the **Financial Health Hackathon (Asia-Paci
 
 ---
 
-## 💡 The Brainstorming Matrix
+## The Brainstorming Matrix
 
 Here is how our concepts connect **Ideas**, **Partners**, and **Finverse Challenges**:
 
@@ -47,42 +47,42 @@ Here is how our concepts connect **Ideas**, **Partners**, and **Finverse Challen
 
 ---
 
-## 📂 Vault Structure & Connections
+## Vault Structure & Connections
 
 Explore the workspace folders:
 
-### 💡 1. Core Ideas (`/Ideas/`)
+### 1. Core Ideas (`/Ideas/`)
 *Detailed specs of our brainstormed concepts.*
 - [[Idea 1 - Alt-Data Credit Scoring for Farmers|Idea 1: Alt-Data Credit Scoring for Farmers]]
 - [[Idea 2 - Voice-Led Ledger for Micro-Merchants|Idea 2: Voice-Led Ledger for Micro-Merchants]]
 - [[Idea 3 - Parametric Micro-Insurance Registry|Idea 3: Parametric Micro-Insurance Registry]]
 - [[Idea 4 - Subjective Well-being Tracker|Idea 4: Subjective Well-being Tracker]]
 
-📂 **More Ideas** (`/Ideas/More Ideas/`) — Extended brainstormed concepts:
+**More Ideas** (`/Ideas/More Ideas/`) — Extended brainstormed concepts:
 - [[Idea 5 - Portable Financial Identity Passport|Idea 5: Portable Financial Identity Passport]]
 - [[Idea 6 - Gamified Group Savings Challenge|Idea 6: Gamified Group Savings Challenge]]
 - [[Idea 7 - AI Financial Coach|Idea 7: AI Financial Coach]]
 
-### 🤝 2. Target Partners (`/Partners/`)
+### 2. Target Partners (`/Partners/`)
 *Profiles of potential real-world APAC partners to contact for Phase 2.*
 - [[Partners/CARD MRI (Philippines)|CARD MRI (Philippines)]] — Leading microfinance & microinsurance group in PH.
 - [[Partners/Amartha (Indonesia)|Amartha (Indonesia)]] — Microfinance marketplace for rural women entrepreneurs.
 - [[Partners/PRADAN (India)|PRADAN (India)]] — NGO organizing self-help groups (SHGs) and agricultural networks.
 
-### 🧩 3. Finverse Challenges (`/Challenges/`)
+### 3. Finverse Challenges (`/Challenges/`)
 *Thematic breakdowns of the 16 Finverse challenges we need to choose from.*
 - [[Finverse Data Access|Data Access & Sharing Barriers]]
 - [[Finverse Data Quality|Data Quality & Cohesion]]
 - [[Finverse Resource Constraints|Resource & Capacity Constraints]]
 - [[Finverse Insight Generation|Insight Generation & Action]]
 
-📂 **Sir Nickler Ideas** (`/Challenges/Sir Nickler Ideas/`) — Teammate challenge breakdowns:
+**Sir Nickler Ideas** (`/Challenges/Sir Nickler Ideas/`) — Teammate challenge breakdowns:
 - [[Sir Nickler Ideas Index|Sir Nickler Ideas Index (Quick Reference & Connection Map)]]
-- [[Challenge 1 - Preventive Care Gap|🏥 Challenge 1: The Preventive Care Gap]]
-- [[Challenge 2 - Climate Finance Blind Spot|🌪️ Challenge 2: The Climate-Finance Blind Spot]]
-- [[Challenge 3 - Invisible Exclusion Problem|⚖️ Challenge 3: The Invisible Exclusion Problem]]
+- [[Challenge 1 - Preventive Care Gap|Challenge 1: The Preventive Care Gap]]
+- [[Challenge 2 - Climate Finance Blind Spot|Challenge 2: The Climate-Finance Blind Spot]]
+- [[Challenge 3 - Invisible Exclusion Problem|Challenge 3: The Invisible Exclusion Problem]]
 
-### 🚀 4. Reformatted Directions (`/Our Directions/`)
+### 4. Reformatted Directions (`/Our Directions/`)
 *Our concepts adapted into our teammate's 4-field PDF template.*
 - [[Directions Overview|Directions Overview & Index]]
 - [[Direction 1 - Agri-Credit Scoring|Direction 1: Alternative Agri-Credit Scoring]]
@@ -90,13 +90,13 @@ Explore the workspace folders:
 - [[Direction 3 - Parametric Micro-Insurance|Direction 3: Parametric Micro-Insurance]]
 - [[Direction 4 - Subjective Stress Tracker|Direction 4: Subjective Stress & Well-being Tracker]]
 
-### 👥 5. Teammate Input (`/Teammate Input/`)
+### 5. Teammate Input (`/Teammate Input/`)
 *Original raw ideas PDF from Sir Nickler.*
 - [[Sir Nickler Ideas|Sir Nickler Ideas (Original PDF)]]
 
 ---
 
-## ⚡ Quick Actions
+## Quick Actions
 - **Create a New Idea**: Copy the template from [[Ideas Template|Ideas Template]].
 - **Update Ideas Overview**: Summarize progress in [[Ideas|Ideas Overview]].
 - **Review Official Guidelines**: See [[About|About the Hackathon]].

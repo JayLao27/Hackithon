@@ -8,7 +8,7 @@ tags:
 created: 2026-06-29
 ---
 
-# 💡 More Ideas — Extended Brainstorm Folder
+# More Ideas — Extended Brainstorm Folder
 
 Back to Ideas Folder: [[Ideas Template|Ideas Template]] | Back to MOC: [[Hackathon MOC]]
 
@@ -16,7 +16,7 @@ This subfolder holds **additional brainstormed concepts** that go beyond our ori
 
 ---
 
-## 📂 Ideas in This Folder
+## Ideas in This Folder
 
 ### 🪪 [[Idea 5 - Portable Financial Identity Passport|Idea 5: Portable Financial Identity Passport]]
 > *"A borrower's financial reputation should travel with them — not be trapped inside a single institution's database."*
@@ -28,7 +28,7 @@ This subfolder holds **additional brainstormed concepts** that go beyond our ori
 
 ---
 
-### 🎮 [[Idea 6 - Gamified Group Savings Challenge|Idea 6: Gamified Group Savings Challenge]]
+### [[Idea 6 - Gamified Group Savings Challenge|Idea 6: Gamified Group Savings Challenge]]
 > *"Emergency savings aren't built through lectures — they're built through community accountability and friendly competition."*
 
 - **Unique Angle**: Social gamification mechanics (streaks, squads, leaderboards) applied to emergency fund-building inside cooperative savings groups.
@@ -38,7 +38,7 @@ This subfolder holds **additional brainstormed concepts** that go beyond our ori
 
 ---
 
-### 🤖 [[Idea 7 - AI Financial Coach|Idea 7: AI Financial Coach]]
+### [[Idea 7 - AI Financial Coach|Idea 7: AI Financial Coach]]
 > *"Every borrower deserves a non-judgmental, always-available financial advisor in their pocket — speaking their language."*
 
 - **Unique Angle**: A 24/7 WhatsApp/SMS conversational AI that intercepts harmful financial decisions in real-time and coaches low-income households in plain local-language dialogue.
@@ -48,7 +48,7 @@ This subfolder holds **additional brainstormed concepts** that go beyond our ori
 
 ---
 
-## 🔗 Connections to Core Ideas
+## Connections to Core Ideas
 
 | More Idea | Connects To |
 | :--- | :--- |

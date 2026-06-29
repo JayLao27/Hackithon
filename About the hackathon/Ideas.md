@@ -1,10 +1,10 @@
-# 💡 Hackathon Ideas: Brainstorming & Evaluation
+# Hackathon Ideas: Brainstorming & Evaluation
 
 This file lists the current proposed concepts for the Financial Health Hackathon, mapping their core technologies, target demographics, and strategic alignment.
 
 ---
 
-## 📌 Proposed Concepts
+## Proposed Concepts
 
 We have brainstormed **4 core concepts** designed to improve the financial health of underserved communities in the Asia-Pacific region using AI and alternative data.
 
@@ -34,7 +34,7 @@ We have brainstormed **4 core concepts** designed to improve the financial healt
 
 ---
 
-## 📊 Evaluation Matrix
+## Evaluation Matrix
 
 To help choose our primary direction, here is a comparison based on feasibility, impact, and partnership potential:
 
@@ -48,7 +48,7 @@ To help choose our primary direction, here is a comparison based on feasibility,
 
 ---
 
-## 🛠️ Next Steps & Selection
+## Next Steps & Selection
 1. **Choose a Direction**: Select the top 1-2 ideas by **July 12, 2026** for our Phase 1 application.
 2. **Contact Target Partners**: Initiate conversations with potential partners (e.g., [[Partners/CARD MRI (Philippines)|CARD MRI]], [[Partners/Amartha (Indonesia)|Amartha]], or [[Partners/PRADAN (India)|PRADAN]]) to secure need-assessment interviews and letters of intent.
 3. **Refine Solution Plan**: Prepare the architecture diagrams and data schema specifications.

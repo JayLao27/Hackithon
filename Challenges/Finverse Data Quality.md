@@ -5,7 +5,7 @@ category: Data Quality
 created: 2026-06-29
 ---
 
-# 🧩 Finverse Category: Data Quality & Cohesion
+# Finverse Category: Data Quality & Cohesion
 
 Back to MOC: [[Hackathon MOC]]
 
@@ -13,7 +13,7 @@ This category addresses the issues of messy, disconnected, or incomplete data, a
 
 ---
 
-## 🛑 Specific Challenges & Mappings
+## Specific Challenges & Mappings
 
 ### 1. Fragmented & Disconnected Systems
 - **Description**: Client data is scattered across different branches, government identification files, and micro-lending groups with zero interoperability.

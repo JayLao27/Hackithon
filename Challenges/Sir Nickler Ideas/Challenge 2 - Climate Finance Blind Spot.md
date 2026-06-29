@@ -6,7 +6,7 @@ direction: Direction 2 — Shock Absorption Model
 created: 2026-06-29
 ---
 
-# 🌪️ Challenge 2: The Climate-Finance Blind Spot
+# Challenge 2: The Climate-Finance Blind Spot
 
 Back to Sir Nickler Ideas: [[Sir Nickler Ideas Index|Sir Nickler Ideas Index]] | Back to MOC: [[Hackathon MOC]]
 

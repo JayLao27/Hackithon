@@ -5,7 +5,7 @@ category: Data Access
 created: 2026-06-29
 ---
 
-# 🧩 Finverse Category: Data Access, Collection & Sharing Barriers
+# Finverse Category: Data Access, Collection & Sharing Barriers
 
 Back to MOC: [[Hackathon MOC]]
 
@@ -13,7 +13,7 @@ This category addresses the friction, regulations, and mechanical hurdles involv
 
 ---
 
-## 🛑 Specific Challenges & Mappings
+## Specific Challenges & Mappings
 
 ### 1. Limited Data Availability & Accessibility
 - **Description**: Many vulnerable populations lack formal credit footprints (no bank account, no card transactions).

@@ -5,7 +5,7 @@ category: Resource Constraints
 created: 2026-06-29
 ---
 
-# 🧩 Finverse Category: Resource & Capacity Constraints
+# Finverse Category: Resource & Capacity Constraints
 
 Back to MOC: [[Hackathon MOC]]
 
@@ -13,7 +13,7 @@ This category addresses the operational limits of target organizations: short-st
 
 ---
 
-## 🛑 Specific Challenges & Mappings
+## Specific Challenges & Mappings
 
 <a id="Limited-Capacity-for-Data-Analysis"></a>
 ### 1. Limited Capacity for Data Analysis

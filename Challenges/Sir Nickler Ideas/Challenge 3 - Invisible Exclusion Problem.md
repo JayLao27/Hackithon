@@ -6,7 +6,7 @@ direction: Direction 3 — Bias & Exclusion Audit
 created: 2026-06-29
 ---
 
-# ⚖️ Challenge 3: The Invisible Exclusion Problem
+# Challenge 3: The Invisible Exclusion Problem
 
 Back to Sir Nickler Ideas: [[Sir Nickler Ideas Index|Sir Nickler Ideas Index]] | Back to MOC: [[Hackathon MOC]]
 

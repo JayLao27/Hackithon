@@ -9,7 +9,7 @@ tags:
 created: 2026-06-29
 ---
 
-# 📖 Conceptual Guide: Understanding the Hackathon & Themes
+# Conceptual Guide: Understanding the Hackathon & Themes
 
 Back to MOC: [[Hackathon MOC]]
 
@@ -17,7 +17,7 @@ If the official guidelines feel dense, this guide breaks down the core concepts 
 
 ---
 
-## 🎯 1. The Core Focus: Financial Inclusion vs. Financial Health
+## 1. The Core Focus: Financial Inclusion vs. Financial Health
 
 For years, the financial sector focused on **Financial Inclusion** (getting bank accounts or mobile wallets into people's hands). However, the United Nations and data.org realized that *having* a bank account doesn't automatically make your life better. 
 
@@ -32,7 +32,7 @@ The new goal is **Financial Health**, which consists of four practical pillars:
 
 ---
 
-## 🤝 2. The Bridge: Why We Need Partner Organizations (FSPs)
+## 2. The Bridge: Why We Need Partner Organizations (FSPs)
 
 The hackathon requires us to partner with a **Financial Service Provider (FSP)** (like CARD MRI or Amartha) instead of just launching a standalone app. Why?
 
@@ -44,7 +44,7 @@ The hackathon requires us to partner with a **Financial Service Provider (FSP)**
 
 ---
 
-## 🧩 3. The Hurdles: The "Finverse" Data Challenges
+## 3. The Hurdles: The "Finverse" Data Challenges
 
 The hackathon asks us to solve up to three data hurdles from data.org's **Finverse** tool. In simple terms, these hurdles represent why FSPs struggle to help their clients:
 
@@ -55,7 +55,7 @@ The hackathon asks us to solve up to three data hurdles from data.org's **Finver
 
 ---
 
-## 💡 4. How Our 4 Ideas Connect the Dots
+## 4. How Our 4 Ideas Connect the Dots
 
 Our ideas are simple bridges connecting the **harnessing of alternative data** to **real-world human impact**:
 

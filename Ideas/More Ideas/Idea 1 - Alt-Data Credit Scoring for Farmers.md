@@ -11,16 +11,16 @@ tags:
 created: 2026-06-29
 ---
 
-# 🌾 Idea 1: Alternative-Data Agri-Credit Scoring for Smallholders
+# Idea 1: Alternative-Data Agri-Credit Scoring for Smallholders
 
 Back to MOC: [[Hackathon MOC]]
 
-## 📌 Quick Summary
+## Quick Summary
 An AI-driven mobile underwriting platform for community banks and agricultural cooperatives that digitizes physical receipts and ledger books, combining them with climate alternative data (weather, satellite crop indices) and subjective community trust inputs to evaluate creditworthiness for unbanked farmers.
 
 ---
 
-## 🧩 Finverse Challenges Mapped
+## Finverse Challenges Mapped
 This idea directly addresses three critical Finverse data barriers:
 1. **[[Finverse Data Access#Paper-based-collection|Paper-based data collection is difficult, expensive, and inconsistent]]**: Most farmers transact in cash and keep paper logs. Field agents waste hours transcribing them.
 2. **[[Finverse Data Quality#Missing-Contextual-and-Subjective-Data|Missing Contextual and Subjective Data]]**: Standard credit systems ignore agricultural factors (e.g., soil health, rain trends) and community dynamics (e.g., cooperative participation).
@@ -28,13 +28,13 @@ This idea directly addresses three critical Finverse data barriers:
 
 ---
 
-## 🤝 Target Partner & User
+## Target Partner & User
 - **Target Partner**: Community/Cooperative Banks or agricultural NGOs (e.g., **[[Partners/CARD MRI (Philippines)|CARD MRI]]** in the Philippines).
 - **Target User**: Smallholder farmers (coconuts, rice, corn) and agricultural cooperative field officers.
 
 ---
 
-## 💡 Tech & Data Architecture
+## Tech & Data Architecture
 
 ```mermaid
 graph TD
@@ -59,13 +59,13 @@ graph TD
 
 ---
 
-## ❤️ Financial Health Impact
+## Financial Health Impact
 - **Daily Management**: Gives farmers their first structured, digital overview of their cash flow (revenues vs. production costs).
 - **Economic Resilience**: Allows rapid underwriting of micro-insurance and emergency credit to rebuild after typhoons or pest outbreaks, avoiding predatory local moneylenders (*"5-6"* lenders in the Philippines).
 - **Long-term Planning**: Enables access to capital for purchasing modern machinery, high-yield seeds, or climate-resilient fertilizers.
 
 ---
 
-## 🗺️ Connection & Open Questions
+## Connection & Open Questions
 - **Synergies**: Can we combine this with parametric micro-insurance so the payout is automatically funneled into loan repayment? (See [[Idea 3 - Parametric Micro-Insurance Registry|Idea 3: Parametric Micro-Insurance]])
 - **Next Steps**: Discuss with [[Partners/CARD MRI (Philippines)|CARD MRI]] regarding their current digitization efforts for rural cooperatives. What is the average bandwidth available to field officers?
