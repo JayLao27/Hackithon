@@ -4,7 +4,7 @@ status: Active
 category: Resource Constraints
 created: 2026-06-29
 ---
-
+	
 # Finverse Category: Resource & Capacity Constraints
 
 Back to MOC: [[Hackathon MOC]]

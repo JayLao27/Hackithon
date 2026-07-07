@@ -94,6 +94,12 @@ Explore the workspace folders:
 *Original raw ideas PDF from Sir Nickler.*
 - [[Sir Nickler Ideas|Sir Nickler Ideas (Original PDF)]]
 
+### 6. Philippines Outreach Pack (`/Philippines - NEW (Copilot)/`)
+*New working notes generated from the LGU-CSO directory (for outreach ideation only; not yet approved partners).*
+- [[Philippines - NEW (Copilot)/Philippines Outreach & Idea Pack|Philippines Outreach & Idea Pack (Q1-Q3 Draft)]]
+- [[Philippines - NEW (Copilot)/LGU-CSO Working Outreach List (Davao)|LGU-CSO Working Outreach List (Davao)]]
+- [[Philippines - NEW (Copilot)/Connection Map - Challenges to Ideas|Connection Map: Challenges to Ideas]]
+
 ---
 
 ## Quick Actions

@@ -42,6 +42,21 @@ By adopting the same framework—focusing on the **Unique Angle**, **Concept**, 
 * **Core Tech**: In-person group check-in surveys + NLP Speech/Text Sentiment Analysis + Decision Alert Engine.
 * **Primary Risk**: Data privacy protection and ethical limits of scoring subjective emotional distress.
 
+### [[NEW - Copilot/Direction 5 - Fisherfolk Climate-Resilience Finance|Direction 5: Fisherfolk Climate-Resilience Finance]]
+* **Unique Angle**: Use an existing LGU-CSO network to pre-qualify underserved fisherfolk groups for preventive and post-shock finance support.
+* **Core Tech**: Registry cleansing + climate risk overlays + cooperative readiness scoring + explainable recommendation engine.
+* **Primary Risk**: Outreach conversion risk (listed organizations may not be active/ready despite directory inclusion).
+
+### [[NEW - Copilot/Direction 6 - Preventive Financial Health Check-Up|Direction 6: Preventive Financial Health Check-Up]]
+* **Unique Angle**: Apply preventive care logic to cooperative financial services before members fall into distress.
+* **Core Tech**: Quarterly health scoring + early warning detection + intervention tracking dashboard.
+* **Primary Risk**: Scope creep; may become too broad without strict pilot boundaries.
+
+### [[NEW - Copilot/Direction 7 - Exclusion and Fairness Audit for FSPs|Direction 7: Exclusion and Fairness Audit for FSPs]]
+* **Unique Angle**: Diagnose institutional blind spots in who gets served, approved, or left out.
+* **Core Tech**: Segment-level parity analytics + explainable governance metrics + board reporting.
+* **Primary Risk**: Stakeholder sensitivity to transparency findings.
+
 ---
 
 ## Next Steps

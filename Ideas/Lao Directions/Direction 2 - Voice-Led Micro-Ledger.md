@@ -33,6 +33,5 @@ A messaging-based AI assistant. A merchant records a quick voice message (e.g., 
 Standard bookkeeping tools require manual data entry, which fails due to digital illiteracy and fatigue. This solution **eliminates digital literacy bottlenecks entirely** by shifting the interface from screens and forms to conversational speech. It meets merchants on the messaging apps they already use daily, offering direct financial advisory instead of just raw charts.
 
 ---
-
 ### Risk
 Background noise in busy public markets can disrupt speech recognition accuracy. The ASR engine requires robust training on low-resource dialects and hybrid slangs.
