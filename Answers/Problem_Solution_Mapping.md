@@ -4,6 +4,20 @@ This document maps the real-world vulnerabilities of underserved communities to 
 
 ---
 
+## 📋 Comprehensive Concept Matrix
+
+| Idea / Solution | Opportunity | Target Market | Gap Addressed | Example Product/Service |
+| :--- | :--- | :--- | :--- | :--- |
+| **[[Ideas/Idea 1 - Alt-Data Credit Scoring for Farmers\|1. Agri-Credit Scoring]]** | Unlocking formal credit for assetless producers | Smallholder agricultural farmers in rural cooperatives | Lack of formal credit history, lack of physical collateral, and unverified paper logs | Mobile OCR receipt scanner + satellite yield (NDVI) credit underwriting engine |
+| **[[Ideas/Idea 2 - Voice-Led Ledger for Micro-Merchants\|2. Voice-Led Micro-Ledger]]** | Digitizing cash flow for informal retail without tech friction | Cash-only micro-merchants and sari-sari store owners | Low digital literacy and fatigue preventing manual typing in bookkeeping apps | WhatsApp/Viber voice-parsing bookkeeping assistant in local dialects |
+| **[[Ideas/Idea 3 - Parametric Micro-Insurance Registry\|3. Parametric Insurance]]** | Instant, zero-claims climate shock financial recovery | Coastal fisherfolk and storm-vulnerable rural communities | Slow physical claims adjustments post-disaster, leading to immediate debt traps | Automated wind-speed/wave-height sensor data API triggers to GCash wallets |
+| **[[Ideas/Idea 4 - Subjective Well-being Tracker\|4. Subjective Well-being Tracker]]** | Proactive debt stress monitoring and default mitigation | Microfinance (MFI) group borrowers (weekly center meetings) | Invisible debt anxiety and lack of qualitative indicators in quantitative bank credit files | Conversational NLP audio survey + loan officer dashboard alerts for payment holidays |
+| **[[Ideas/More Ideas/Idea 5 - Portable Financial Identity Passport\|5. Portable Financial Passport]]** | Trust portability across different institutions and regions | Seasonal migrant workers and relocating cooperative members | Siloed core banking databases that force borrowers to restart from zero credit history | Decentralized QR code portfolio of digitally signed repayment credentials |
+| **[[Ideas/More Ideas/Idea 6 - Gamified Group Savings Challenge\|6. Gamified Group Savings]]** | Building household emergency buffers through peer dynamics | Youth savers and rural community group members | Lack of structured savings habits and lack of engaging savings programs | Collaborative squad-based saving app with cooperative interest discounts |
+| **[[Ideas/More Ideas/Idea 7 - AI Financial Coach\|7. AI Financial Coach]]** | 24/7 personalized financial literacy coaching at scale | First-generation bank users and low-income households | Shortage of MFI staff resources for personal financial counseling | SMS/WhatsApp LLM agent providing non-judgmental budget advice in Tagalog/Bahasa |
+
+---
+
 ## 🌾 1. Alternative-Data Agri-Credit Scoring
 
 * **The Real-World Problem**: Smallholder farmers are locked out of formal bank loans because they have no formal bank accounts or physical collateral. To buy seeds or fertilizers, they must rely on local predatory lenders (*"5-6"* lenders) who charge interest rates of 20% or more per month, trapping them in poverty.
